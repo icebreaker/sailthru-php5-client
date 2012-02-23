@@ -20,7 +20,6 @@ It can make requests to following [API calls](http://docs.sailthru.com/api):
 * [job](http://docs.sailthru.com/api/job)
 * [horizon](http://docs.sailthru.com/api/horizon)
 
-
 Examples
 ---------
 
